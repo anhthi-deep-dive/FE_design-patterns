@@ -1,1 +1,3 @@
-# design-patterns-dd
+# patterns-dd
+
+https://www.patterns.dev/
