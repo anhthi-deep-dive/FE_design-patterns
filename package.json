@@ -1,0 +1,23 @@
+{
+  "name": "fe_design-patterns",
+  "version": "1.0.0",
+  "description": "https://www.patterns.dev/",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node 1_javascript/pubsub/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhthi-deep-dive/FE_design-patterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhthi-deep-dive/FE_design-patterns/issues"
+  },
+  "homepage": "https://github.com/anhthi-deep-dive/FE_design-patterns#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
