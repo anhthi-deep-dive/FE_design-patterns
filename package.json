@@ -4,7 +4,7 @@
   "description": "https://www.patterns.dev/",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node 1_javascript/pubsub/index.ts"
+    "start": "ts-node 1_javascript/proxy/index.ts"
   },
   "repository": {
     "type": "git",
